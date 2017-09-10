@@ -9,11 +9,6 @@ Python learning
 4. Jack Ma
 5. Ryan Satriawan
 
-
-
-
-## Requirements:
-a. Intel Core i7 3.4 GHz
-b. VGA R9
-c. RAM 16Gb
-d. SSD 256Gb
+## Cara membuat komputer :
+a. Ruby
+b. Rails
