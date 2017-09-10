@@ -10,5 +10,5 @@ Python learning
 5. Ryan Satriawan
 
 ## Cara membuat komputer :
-a. Ruby
-b. Rails
+1. Raspberry PI
+2. Arduino
