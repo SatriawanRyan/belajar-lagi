@@ -12,3 +12,4 @@ Python learning
 ## Cara membuat komputer :
 1. Raspberry PI
 2. Arduino
+3. DJI Phantom 4 Pro
