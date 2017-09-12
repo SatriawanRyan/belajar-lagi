@@ -14,6 +14,7 @@ Python learning
 2. Arduino
 3. DJI Phantom 4 Pro
 4. Iphone 8
+5. Ipad Pro
 
 ## Menambahkan Subchapter GIT
 1. Melihat Issue Tracker
