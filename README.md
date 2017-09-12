@@ -21,4 +21,4 @@ Python learning
 3. Mem-push branch
 4. Merubah kode branch tersebut
 5. Meng-commit kode, mereview kode
-6. Mem-push branch
+6. Mem-push branch.
