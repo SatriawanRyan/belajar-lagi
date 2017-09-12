@@ -24,6 +24,9 @@ Python learning
 5. Meng-commit kode, mereview kode
 6. Mem-push branch.
 
+## Cara instalasi GIT
+Download saja pokoknya.
+
 ## Manfaat GIT
 1. Dengan Git dan Github kode akan aman dari HDD rusak
 2. Memiliki Repository yang public dan bisa menjadi portfolio
