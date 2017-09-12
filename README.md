@@ -10,7 +10,7 @@ Python learning
 5. Ryan Satriawan
 
 ## Cara membuat komputer :
-1. Raspberry PI
+1. Raspberry PI atau Raspberry PI C
 2. Arduino
 3. DJI Phantom 4 Pro
 4. Iphone 8
