@@ -14,3 +14,8 @@ Python learning
 2. Arduino
 3. DJI Phantom 4 Pro
 4. Iphone 8
+
+## Manfaat GIT
+1. Dengan Git dan Github kode akan aman dari HDD rusak
+2. Memiliki Repository yang public dan bisa menjadi portfolio
+ 
